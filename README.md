@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I am Lucas! 
 
-I'm a Software Engineer and Computer Science M.Sc. Student living in Brazil. My main skills are Web/Hybrid development and drinking beer or coffee. I'm also a dog person 🐶 and I love to travel ✈️.
+I'm a Software Engineer. My main skills are Web/Hybrid development and drinking beer or coffee. I'm also a dog person 🐶 and I love to travel ✈️.
 
 I'm available in 🇬🇧 🇩🇪 🇧🇷.
 
